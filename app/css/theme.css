@@ -1,0 +1,19 @@
+/* Sunset Platinum — light theme. Activated by data-theme="light" on <html>; dark is the default. */
+html[data-theme="light"] {
+  --bg: #f6f3ee;
+  --panel: #ffffff;
+  --panel-2: #efe9df;
+  --line: #d8d0c2;
+  --text: #1d2129;
+  --muted: #5c6470;
+  --accent: #d24e2a;
+  --accent-soft: #fbe9e2;
+  --gold: #8a6d00;
+  --silver: #5a6b7a;
+  --bronze: #9a5b1e;
+  --platinum: #0e7c7a;
+  --good: #1e7a3c;
+  --warn: #9a5b00;
+}
+html[data-theme="light"] a:visited { color: #b03a1c; }
+html[data-theme="light"] .brand-mark { color: #fff; }
